@@ -1,6 +1,9 @@
 # 2025_4C_DeepWind
 Project for the 18th Chinese Collegiate Computing Competition(4C)  of Chang'an University. This project , which is about the intelligent wind power prediction system, is on the web side.
 
+![DeepWind Project Architecture Diagram](https://github.com/user-attachments/assets/44e46fc3-f152-4dca-8b7a-29f2f0743069)
+
+
 ## About us 
 We are from Chang'an University. Our team members are as follows.
 
