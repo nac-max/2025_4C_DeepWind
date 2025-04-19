@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  frontend:
+    build: .
+    ports:
+      - "80:80"
+    volumes:
+      - /home/server/js-wpf/WPF_Front/dist:/usr/share/nginx/html
+    networks:
+      - backend-network
+
+networks:
+  backend-network:
+    external: true 
